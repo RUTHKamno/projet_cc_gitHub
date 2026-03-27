@@ -1,0 +1,9 @@
+=== Métriques du modèle RandomForestRegressor ===
+
+MAE  : 12688.39
+RMSE : 15983.06
+R²   : 0.9943
+
+Dataset : 50000 lignes × 8 colonnes
+Train   : 40000 exemples
+Test    : 10000 exemples
